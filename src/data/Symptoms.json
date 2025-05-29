@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Malaria",
+    "symptoms": [
+      "fever",
+      "chills",
+      "headache",
+      "nausea",
+      "sweating",
+      "body aches"
+    ],
+    "description": "A mosquito-borne infectious disease caused by Plasmodium parasites common in Nigeria.",
+    "causes": "Plasmodium parasite transmitted through bites of infected Anopheles mosquitoes.",
+    "treatment": "Antimalarial medications such as artemisinin-based combination therapies (ACTs).",
+    "severity": "Common",
+    "homeRemedy": "Stay hydrated, use fever reducers like paracetamol, sleep under insecticide-treated nets, and drink herbal teas like neem or lemongrass."
+  },
+  {
+    "name": "Typhoid Fever",
+    "symptoms": [
+      "high fever",
+      "abdominal pain",
+      "weakness",
+      "constipation",
+      "diarrhea",
+      "loss of appetite"
+    ],
+    "description": "A bacterial infection due to Salmonella typhi, often from contaminated food or water.",
+    "causes": "Ingestion of food or water contaminated with Salmonella typhi.",
+    "treatment": "Antibiotics like ciprofloxacin or azithromycin, hydration, and rest.",
+    "severity": "Common",
+    "homeRemedy": "Drink clean water mixed with salt and sugar (ORS), consume soft foods like pap, rest well, and use herbal bitters."
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": [
+      "headache",
+      "chest pain",
+      "blurred vision",
+      "shortness of breath",
+      "fatigue"
+    ],
+    "description": "A condition in which the force of the blood against the artery walls is too high.",
+    "causes": "Genetics, high salt intake, obesity, stress, lack of physical activity.",
+    "treatment": "Lifestyle changes, antihypertensive medications.",
+    "severity": "Essential",
+    "homeRemedy": "Reduce salt intake, exercise regularly, eat more fruits and vegetables, and avoid stress."
+  },
+  {
+    "name": "Diabetes",
+    "symptoms": [
+      "frequent urination",
+      "excessive thirst",
+      "fatigue",
+      "blurred vision",
+      "slow wound healing"
+    ],
+    "description": "A group of diseases that result in too much sugar in the blood (high blood glucose).",
+    "causes": "Insulin resistance or lack of insulin production.",
+    "treatment": "Insulin, oral hypoglycemics, diet control, and exercise.",
+    "severity": "Essential",
+    "homeRemedy": "Monitor blood sugar levels, eat whole grains and bitter leaf soup, exercise daily, and drink plenty of water."
+  },
+  {
+    "name": "Diarrhea",
+    "symptoms": [
+      "loose stool",
+      "abdominal cramps",
+      "nausea",
+      "dehydration",
+      "fever"
+    ],
+    "description": "Frequent loose, watery stools usually caused by infections or food intolerance.",
+    "causes": "Contaminated food or water, viruses, bacteria, parasites.",
+    "treatment": "Rehydration, ORS, and in some cases antibiotics.",
+    "severity": "Common",
+    "homeRemedy": "Use oral rehydration solution, eat cooked rice or ripe banana, and avoid oily or spicy food."
+  },
+  {
+    "name": "Tuberculosis",
+    "symptoms": [
+      "persistent cough",
+      "weight loss",
+      "fever",
+      "night sweats",
+      "fatigue"
+    ],
+    "description": "An infectious disease that mainly affects the lungs, common in densely populated Nigerian areas.",
+    "causes": "Mycobacterium tuberculosis spread via airborne droplets.",
+    "treatment": "Antibiotics taken for 6 months, including isoniazid and rifampicin.",
+    "severity": "Essential",
+    "homeRemedy": "Eat garlic, ginger, turmeric, and bitter kola; ensure good ventilation and sunlight exposure."
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": [
+      "chest pain",
+      "cough with phlegm",
+      "fever",
+      "difficulty breathing"
+    ],
+    "description": "Inflammation of the lungs caused by infection.",
+    "causes": "Bacteria, viruses, fungi; worsened by poor hygiene or untreated colds.",
+    "treatment": "Antibiotics, antivirals, rest, and fluids.",
+    "severity": "Common",
+    "homeRemedy": "Inhale steam with eucalyptus oil, drink warm ginger tea, and rest in a warm environment."
+  },
+  {
+    "name": "Asthma",
+    "symptoms": [
+      "shortness of breath",
+      "chest tightness",
+      "wheezing",
+      "coughing"
+    ],
+    "description": "A chronic respiratory condition that causes difficulty breathing.",
+    "causes": "Genetics, allergens, air pollution, respiratory infections.",
+    "treatment": "Inhalers, steroids, avoiding triggers.",
+    "severity": "Essential",
+    "homeRemedy": "Avoid cold weather, use warm steam therapy, and drink clove or honey-infused tea."
+  },
+  {
+    "name": "Conjunctivitis",
+    "symptoms": [
+      "red eyes",
+      "itching",
+      "eye discharge",
+      "watery eyes"
+    ],
+    "description": "Also known as Apollo, a common eye infection in Nigeria.",
+    "causes": "Viral or bacterial infection, allergies, or irritants.",
+    "treatment": "Antibiotic or antiviral eye drops, hygiene.",
+    "severity": "Common",
+    "homeRemedy": "Apply clean warm compress to eyes, rinse with clean water, and avoid sharing towels."
+  },
+  {
+    "name": "Measles",
+    "symptoms": [
+      "rash",
+      "high fever",
+      "cough",
+      "runny nose",
+      "red eyes"
+    ],
+    "description": "A contagious viral disease, preventable by vaccine.",
+    "causes": "Measles virus spread via respiratory droplets.",
+    "treatment": "Rest, hydration, Vitamin A supplements.",
+    "severity": "Essential",
+    "homeRemedy": "Use neem leaf baths, ensure fluid intake, and rest in a cool, clean environment."
+  },
+  {
+    "name": "Common Cold",
+    "symptoms": [
+      "sneezing",
+      "runny nose",
+      "sore throat",
+      "cough",
+      "mild fever"
+    ],
+    "description": "A viral upper respiratory infection common during the rainy season.",
+    "causes": "Viruses like rhinovirus spread through air or contact.",
+    "treatment": "Rest, hydration, and over-the-counter cold medications.",
+    "severity": "Common",
+    "homeRemedy": "Drink warm lemon and honey tea, inhale steam, and rest well."
+  },
+  {
+    "name": "Ulcer",
+    "symptoms": [
+      "burning stomach pain",
+      "bloating",
+      "nausea",
+      "vomiting"
+    ],
+    "description": "Sores in the stomach lining caused by H. pylori or excessive acid.",
+    "causes": "H. pylori infection, NSAID use, stress.",
+    "treatment": "Antibiotics, proton pump inhibitors, and antacids.",
+    "severity": "Essential",
+    "homeRemedy": "Avoid spicy food, eat early dinners, consume cabbage juice or unripe plantain."
+  },
+  {
+    "name": "Hepatitis B",
+    "symptoms": [
+      "jaundice",
+      "fatigue",
+      "abdominal pain",
+      "dark urine",
+      "nausea"
+    ],
+    "description": "A viral liver infection that can become chronic.",
+    "causes": "Hepatitis B virus spread through blood and bodily fluids.",
+    "treatment": "Antiviral drugs, regular liver monitoring.",
+    "severity": "Essential",
+    "homeRemedy": "Avoid alcohol, eat fruits like pawpaw, and drink bitter leaf juice."
+  },
+  {
+    "name": "Toothache",
+    "symptoms": [
+      "sharp pain",
+      "swelling",
+      "sensitivity",
+      "headache"
+    ],
+    "description": "Pain around a tooth due to decay or gum infection.",
+    "causes": "Cavities, gum disease, cracked teeth.",
+    "treatment": "Dental cleaning, filling, or antibiotics.",
+    "severity": "Common",
+    "homeRemedy": "Rinse mouth with warm salt water, chew cloves, and avoid sugary food."
+  },
+  {
+    "name": "Skin Rashes",
+    "symptoms": [
+      "redness",
+      "itching",
+      "dryness",
+      "bumps"
+    ],
+    "description": "Inflammation or irritation of the skin, often caused by heat or allergens.",
+    "causes": "Allergies, infections, poor hygiene, heat.",
+    "treatment": "Topical creams, antihistamines, good hygiene.",
+    "severity": "Common",
+    "homeRemedy": "Apply aloe vera or shea butter, bathe in neem water, and avoid harsh soaps."
+  },
+  {
+    "name": "Dysentery",
+    "symptoms": [
+      "bloody diarrhea",
+      "abdominal pain",
+      "fever",
+      "vomiting"
+    ],
+    "description": "An intestinal infection causing severe diarrhea with blood.",
+    "causes": "Bacterial or amoebic infection via contaminated food or water.",
+    "treatment": "Antibiotics or antiparasitic drugs, hydration.",
+    "severity": "Common",
+    "homeRemedy": "Drink ORS, consume unripe plantain flour paste, and rest."
+  },
+  {
+    "name": "Worm Infestation",
+    "symptoms": [
+      "stomach pain",
+      "itchy anus",
+      "weight loss",
+      "fatigue"
+    ],
+    "description": "Parasitic worms in the intestines affecting mostly children.",
+    "causes": "Poor hygiene, contaminated water or food.",
+    "treatment": "Anthelmintic drugs like albendazole or mebendazole.",
+    "severity": "Common",
+    "homeRemedy": "Eat raw pawpaw seeds, garlic, and maintain good hygiene."
+  },
+  {
+    "name": "Ringworm",
+    "symptoms": [
+      "circular rash",
+      "itching",
+      "scaly skin"
+    ],
+    "description": "Fungal skin infection commonly affecting children.",
+    "causes": "Fungal spores from infected people or surfaces.",
+    "treatment": "Topical antifungals, hygiene.",
+    "severity": "Common",
+    "homeRemedy": "Apply lime and salt mixture or black soap and palm kernel oil."
+  },
+  {
+    "name": "Scabies",
+    "symptoms": [
+      "intense itching",
+      "rash",
+      "sores",
+      "blisters"
+    ],
+    "description": "Contagious skin infestation by mites.",
+    "causes": "Sarcoptes scabiei mites, spread through close contact.",
+    "treatment": "Prescription creams, hygiene.",
+    "severity": "Common",
+    "homeRemedy": "Apply neem oil or soak in warm water with sulfur soap."
+  },
+  {
+    "name": "Food Poisoning",
+    "symptoms": [
+      "vomiting",
+      "diarrhea",
+      "stomach cramps",
+      "fever"
+    ],
+    "description": "Illness from contaminated or spoiled food.",
+    "causes": "Bacteria, viruses, or toxins in food.",
+    "treatment": "Hydration, rest, antibiotics in severe cases.",
+    "severity": "Common",
+    "homeRemedy": "Drink ORS, rest, and take ginger or activated charcoal."
+  },
+  {
+    "name": "Urinary Tract Infection (UTI)",
+    "symptoms": [
+      "burning urination",
+      "frequent urge to urinate",
+      "cloudy urine",
+      "pelvic pain"
+    ],
+    "description": "Infection in any part of the urinary system, often the bladder.",
+    "causes": "Bacteria like E. coli from poor hygiene or unclean water.",
+    "treatment": "Antibiotics like nitrofurantoin, hydration.",
+    "severity": "Common",
+    "homeRemedy": "Drink cranberry juice, increase water intake, and maintain personal hygiene."
+  },
+  {
+    "name": "Migraine",
+    "symptoms": [
+      "throbbing headache",
+      "nausea",
+      "sensitivity to light and sound"
+    ],
+    "description": "A neurological condition causing intense headaches.",
+    "causes": "Stress, lack of sleep, hormonal changes.",
+    "treatment": "Pain relievers, rest, and avoiding triggers.",
+    "severity": "Common",
+    "homeRemedy": "Lie in a dark room, use a cold compress, and inhale peppermint oil."
+  },
+  {
+    "name": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdominal pain",
+      "back pain",
+      "nausea",
+      "fatigue"
+    ],
+    "description": "Pain during menstruation due to uterine contractions.",
+    "causes": "Hormonal changes and prostaglandin release.",
+    "treatment": "Pain relievers, antispasmodics.",
+    "severity": "Common",
+    "homeRemedy": "Use hot water bottles, drink ginger tea, and exercise lightly."
+  },
+  {
+    "name": "Sinusitis",
+    "symptoms": [
+      "facial pain",
+      "nasal congestion",
+      "headache",
+      "fever"
+    ],
+    "description": "Inflammation of the sinuses causing pain and congestion.",
+    "causes": "Infections, allergies, or cold.",
+    "treatment": "Decongestants, antibiotics, and steam inhalation.",
+    "severity": "Common",
+    "homeRemedy": "Inhale steam with eucalyptus, drink hot water, and apply warm compress."
+  },
+  {
+    "name": "Sore Throat",
+    "symptoms": [
+      "pain when swallowing",
+      "scratchy throat",
+      "hoarseness",
+      "swollen glands"
+    ],
+    "description": "Inflammation or infection of the throat.",
+    "causes": "Viral infections, bacteria, dry air.",
+    "treatment": "Pain relievers, antibiotics if bacterial.",
+    "severity": "Common",
+    "homeRemedy": "Gargle warm salt water, suck honey and lemon, and drink warm fluids."
+  },
+  {
+    "name": "Eczema",
+    "symptoms": [
+      "dry skin",
+      "itching",
+      "red patches",
+      "cracked skin"
+    ],
+    "description": "A skin condition causing inflammation and irritation.",
+    "causes": "Allergens, soaps, genetics.",
+    "treatment": "Moisturizers, steroid creams.",
+    "severity": "Common",
+    "homeRemedy": "Apply coconut oil or shea butter, avoid harsh soaps, and keep skin hydrated."
+  },
+  {
+    "name": "Eye Strain",
+    "symptoms": [
+      "blurry vision",
+      "headache",
+      "dry eyes",
+      "eye fatigue"
+    ],
+    "description": "Discomfort after long use of eyes, especially screens.",
+    "causes": "Extended screen time, poor lighting.",
+    "treatment": "Rest, eye drops, better lighting.",
+    "severity": "Common",
+    "homeRemedy": "Use 20-20-20 rule, blink more often, and apply warm compress."
+  },
+  {
+    "name": "Constipation",
+    "symptoms": [
+      "infrequent stools",
+      "straining",
+      "hard stool",
+      "bloating"
+    ],
+    "description": "Difficulty in passing stool or infrequent bowel movements.",
+    "causes": "Low fiber, dehydration, inactivity.",
+    "treatment": "Laxatives, dietary changes.",
+    "severity": "Common",
+    "homeRemedy": "Drink warm water, eat pawpaw, and consume high-fiber foods like okra."
+  },
+  {
+    "name": "Athlete's Foot",
+    "symptoms": [
+      "itchy feet",
+      "peeling skin",
+      "redness",
+      "burning"
+    ],
+    "description": "Fungal infection affecting the skin between toes.",
+    "causes": "Fungal spores in damp environments.",
+    "treatment": "Antifungal creams and powders.",
+    "severity": "Common",
+    "homeRemedy": "Soak feet in salt water or vinegar, keep feet dry, and use talcum powder."
+  },
+  {
+    "name": "Ear Infection",
+    "symptoms": [
+      "ear pain",
+      "hearing loss",
+      "fever",
+      "fluid discharge"
+    ],
+    "description": "Infection of the middle or outer ear.",
+    "causes": "Bacteria, viruses, or water exposure.",
+    "treatment": "Antibiotics, ear drops, pain relievers.",
+    "severity": "Common",
+    "homeRemedy": "Warm compress, garlic oil drops, and avoid inserting objects into the ear."
+  },
+    {
+        "name": "Gout",
+        "symptoms": [
+        "sudden joint pain",
+        "swelling",
+        "redness",
+        "warmth"
+        ],
+        "description": "A form of arthritis characterized by sudden, severe pain in the joints.",
+        "causes": "High levels of uric acid in the blood.",
+        "treatment": "Anti-inflammatory medications, lifestyle changes.",
+        "severity": "Common",
+        "homeRemedy": "Drink plenty of water, avoid alcohol, and consume cherries or ginger."
+    },
+    {
+        "name": "Angina Pectoris",
+        "symptoms": [
+        "chest pain",
+        "shortness of breath",
+        "nausea",
+        "sweating"
+        ],
+        "description": "Chest pain caused by reduced blood flow to the heart muscles.",
+        "causes": "Coronary artery disease, stress, physical exertion.",
+        "treatment": "Nitrates, beta-blockers, lifestyle changes.",
+        "severity": "Essential",
+        "homeRemedy": "Practice relaxation techniques, avoid heavy meals, and engage in light exercise."
+    }
+]
