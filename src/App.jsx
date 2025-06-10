@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import data from './data/Symptoms.json';
+import ResponsiveAppBar from '../Navbar';
 import './index.css';
 
 export default function App() {
@@ -41,6 +42,7 @@ export default function App() {
 
   return (
     <>
+    <ResponsiveAppBar />
     <div className="min-h-screen bg-green-50 text-gray-800 p-6">
       <h1 className="text-3xl font-bold text-center text-green-700 mb-4">IKECHUKWU-CHECK</h1>
 
